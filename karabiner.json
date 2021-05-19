@@ -2779,7 +2779,7 @@
                     ]
                 }
             ],
-            "name": "Default Apple Profile",
+            "name": "Off",
             "parameters": {
                 "delay_milliseconds_before_open_device": 1000
             },
